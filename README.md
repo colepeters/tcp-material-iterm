@@ -6,7 +6,7 @@ Dark and light colour schemes for iTerm based on the [Material Design colour pal
 ## Preview
 
 ### Dark:
-<img src="tcp-material-dark.png" width="500px" height="auto">
+<img src="tcp-material-dark.png" width="100%" height="auto">
 
 ### Light:
-<img src="tcp-material-light.png" width="500px" height="auto">
+<img src="tcp-material-light.png" width="100%" height="auto">
